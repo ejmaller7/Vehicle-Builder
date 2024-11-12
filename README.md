@@ -15,7 +15,7 @@
 
   ## Installation
   ```
-  npm install or npm i
+  npm install or npm i followed by npm run build
   ```
 
   ## Usage
@@ -32,7 +32,7 @@
 
   ## Tests
   ```
-  node index.js (Make sure you are in the dist folder by changing directory to the dist folder)
+  node index.js - Ensure that you have run npm run build before this, and also ensure you are in the correct directory by typing the command cd dist
   ```
 
   ## Questions
