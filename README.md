@@ -32,7 +32,7 @@
 
   ## Tests
   ```
-  node index.ts
+  node index.js (Make sure you are in the dist folder by changing directory to the dist folder)
   ```
 
   ## Questions
