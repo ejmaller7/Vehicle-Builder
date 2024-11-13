@@ -25,7 +25,7 @@
   [MIT License](https://opensource.org/licenses/MIT)
 
   ## Walkthrough
-  
+  Demonstration of functionality: (https://youtu.be/d5-p6joJXJE)
 
   ## Contributing
   Contributing to the repository is done so through the command line. If someone wishes to add anything to the repository. Make sure to run the commands above to ensure you get the prompts necessary to create a vehicle.
